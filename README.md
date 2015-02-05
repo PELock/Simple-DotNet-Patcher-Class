@@ -1,4 +1,4 @@
-# Simple C# Patcher Class for Windows (Complex)
+# Simple C# Patcher Class
 An example of how to patch files, using C#.
 
 You can patch:
