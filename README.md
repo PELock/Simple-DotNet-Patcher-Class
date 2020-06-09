@@ -10,4 +10,4 @@ You can patch:
 - delphi strings
 
 Bartosz Wójcik
-http://www.pelock.com
+https://www.pelock.com
