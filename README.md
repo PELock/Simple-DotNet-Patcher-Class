@@ -1,4 +1,5 @@
 # Simple C# Patcher Class
+
 An example of how to patch files, using C#.
 
 You can patch:
@@ -10,4 +11,7 @@ You can patch:
 - delphi strings
 
 Bartosz Wójcik
-https://www.pelock.com
+
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
